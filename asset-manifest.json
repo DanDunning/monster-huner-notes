@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/monster-hunter-notes/static/css/main.cea2070a.chunk.css",
-    "main.js": "/monster-hunter-notes/static/js/main.e1e189ad.chunk.js",
-    "main.js.map": "/monster-hunter-notes/static/js/main.e1e189ad.chunk.js.map",
+    "main.css": "/monster-hunter-notes/static/css/main.50a3d479.chunk.css",
+    "main.js": "/monster-hunter-notes/static/js/main.26473252.chunk.js",
+    "main.js.map": "/monster-hunter-notes/static/js/main.26473252.chunk.js.map",
     "runtime-main.js": "/monster-hunter-notes/static/js/runtime-main.894445f7.js",
     "runtime-main.js.map": "/monster-hunter-notes/static/js/runtime-main.894445f7.js.map",
     "static/js/2.e27a2a37.chunk.js": "/monster-hunter-notes/static/js/2.e27a2a37.chunk.js",
     "static/js/2.e27a2a37.chunk.js.map": "/monster-hunter-notes/static/js/2.e27a2a37.chunk.js.map",
     "index.html": "/monster-hunter-notes/index.html",
-    "precache-manifest.40c36f1d4c64fe65158c0ed6806f5d3c.js": "/monster-hunter-notes/precache-manifest.40c36f1d4c64fe65158c0ed6806f5d3c.js",
+    "precache-manifest.b5a2bc489ead10c36d057a8388d19ccc.js": "/monster-hunter-notes/precache-manifest.b5a2bc489ead10c36d057a8388d19ccc.js",
     "service-worker.js": "/monster-hunter-notes/service-worker.js",
-    "static/css/main.cea2070a.chunk.css.map": "/monster-hunter-notes/static/css/main.cea2070a.chunk.css.map"
+    "static/css/main.50a3d479.chunk.css.map": "/monster-hunter-notes/static/css/main.50a3d479.chunk.css.map"
   }
 }

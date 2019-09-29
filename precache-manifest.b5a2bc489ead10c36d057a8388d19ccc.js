@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c331001278e149609053df0506f4d5b",
+    "revision": "6823961e1557a76b625842ed69a9ed2f",
     "url": "/monster-hunter-notes/index.html"
   },
   {
-    "revision": "86fef6f3ae026e0dc03b",
-    "url": "/monster-hunter-notes/static/css/main.cea2070a.chunk.css"
+    "revision": "ac34b6079fd86b93b88f",
+    "url": "/monster-hunter-notes/static/css/main.50a3d479.chunk.css"
   },
   {
     "revision": "cf0b22ea1f04a1c4bd25",
     "url": "/monster-hunter-notes/static/js/2.e27a2a37.chunk.js"
   },
   {
-    "revision": "86fef6f3ae026e0dc03b",
-    "url": "/monster-hunter-notes/static/js/main.e1e189ad.chunk.js"
+    "revision": "ac34b6079fd86b93b88f",
+    "url": "/monster-hunter-notes/static/js/main.26473252.chunk.js"
   },
   {
     "revision": "5563dcaa9a0549536022",
