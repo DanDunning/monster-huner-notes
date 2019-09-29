@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/monster-hunter-notes/precache-manifest.e12594f0955c89d79167ece38b53abef.js"
+  "/monster-hunter-notes/precache-manifest.40c36f1d4c64fe65158c0ed6806f5d3c.js"
 );
 
 self.addEventListener('message', (event) => {
